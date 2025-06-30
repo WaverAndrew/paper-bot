@@ -5,3 +5,4 @@ supabase
 pinecone-client
 openai
 boto3 
+gunicorn
